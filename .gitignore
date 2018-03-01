@@ -99,3 +99,6 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+BDA_py_demos/*
+BDA_py_demos
